@@ -1,0 +1,517 @@
+Info: Traitement du symbole "A1:Module:Pololu_Breakout-16_15.2x20.3mm".
+Info: Traitement du symbole "A4:Module:Pololu_Breakout-16_15.2x20.3mm".
+Info: Traitement du symbole "A2:ISI-Modules:Arduino_Mega2560_R3_Shield".
+Info: Traitement du symbole "A3:Module:Pololu_Breakout-16_15.2x20.3mm".
+Info: Traitement du symbole "A5:Module:Pololu_Breakout-16_15.2x20.3mm".
+Info: Traitement du symbole "C1:ISI-Capacitor:WCAP-ATUL_18X35.5_DXL_".
+Info: Traitement du symbole "C2:ISI-Capacitor:WCAP-ATUL_18X35.5_DXL_".
+Info: Traitement du symbole "D2:ISI-Diodes:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Traitement du symbole "D3:ISI-Diodes:D_SMB_Handsoldering".
+Info: Traitement du symbole "J1:ISI-Connector_JST:JST_XH_B4B-XH-AM_1x04_P2.50mm_Long_Vertical".
+Info: Traitement du symbole "J2:ISI-Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Long_Vertical".
+Info: Traitement du symbole "J3:ISI-Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Long_Vertical".
+Info: Traitement du symbole "J4:ISI-Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Long_Vertical".
+Info: Traitement du symbole "J5:ISI-Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical".
+Info: Total warnings: 8, erreurs: 0.
+Info: Traitement du symbole "J7:ISI-Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Long_Vertical".
+Info: Traitement du symbole "J8:ISI-Connector_JST:JST_XH_B4B-XH-AM_1x04_P2.50mm_Long_Vertical".
+Info: Traitement du symbole "J9:ISI-Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Long_Vertical".
+Info: Traitement du symbole "J10:ISI-Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Long_Vertical".
+Info: Traitement du symbole "J11:ISI-Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Long_Vertical".
+Info: Traitement du symbole "R1:ISI-Resistor:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Info: Traitement du symbole "S1:ISI-Switch_Wurth:450301014042".
+Info: Traitement du symbole "U1:ISI-Modules:module_mpu6050".
+Info: Traitement du symbole "U3:ISI-Modules:E01-ML01DP5".
+Ajout net /d1-DIR.
+Connecter A1 pin 16 à /d1-DIR.
+Ajout net unconnected-(A1-A2-Pad3).
+Connecter A1 pin 3 à unconnected-(A1-A2-Pad3).
+Ajout net /d1-STEP.
+Connecter A1 pin 15 à /d1-STEP.
+Ajout net unconnected-(A1-VMOT-Pad8).
+Connecter A1 pin 8 à unconnected-(A1-VMOT-Pad8).
+Ajout net unconnected-(A1-~{FLT}-Pad2).
+Connecter A1 pin 2 à unconnected-(A1-~{FLT}-Pad2).
+Ajout net unconnected-(A1-GND-Pad7).
+Connecter A1 pin 7 à unconnected-(A1-GND-Pad7).
+Ajout net unconnected-(A1-A1-Pad4).
+Connecter A1 pin 4 à unconnected-(A1-A1-Pad4).
+Ajouté A2 (empreinte 'ISI-Modules:Arduino_Mega2560_R3_Shield').
+Change la référence schématique de A** en A2.
+Mise à jour A2 association de symbole de  à /21b9d0ca-083f-44a2-b2ea-de3cfd4f4889.
+Mise a Jour des Champs de A2.
+Mis à jour A2 nom de feuille en /.
+Mis à jour A2 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte A2 mis à jour en 'Arduino_Mega2560_R3_Shield'.
+Ajout net /d3-ENABLE.
+Connecter A2 pin D40 à /d3-ENABLE.
+Ajout net /T_SCL.
+Connecter A2 pin D21 à /T_SCL.
+Ajout net unconnected-(A2-SPI_GND-PadGND4).
+Connecter A2 pin GND4 à unconnected-(A2-SPI_GND-PadGND4).
+Ajout net unconnected-(A2-PadA6).
+Connecter A2 pin A6 à unconnected-(A2-PadA6).
+Ajout net /D_MOSI.
+Connecter A2 pin D51 à /D_MOSI.
+Ajout net unconnected-(A2-PadD25).
+Connecter A2 pin D25 à unconnected-(A2-PadD25).
+Ajout net unconnected-(A2-PadA8).
+Connecter A2 pin A8 à unconnected-(A2-PadA8).
+Ajout net /d3-DIR.
+Connecter A2 pin D39 à /d3-DIR.
+Ajout net /d3-STEP.
+Connecter A2 pin D38 à /d3-STEP.
+Ajout net /D_INT.
+Connecter A2 pin D2 à /D_INT.
+Ajout net unconnected-(A2-D53_CS-PadD53).
+Connecter A2 pin D53 à unconnected-(A2-D53_CS-PadD53).
+Ajout net /d2-ENABLE.
+Connecter A2 pin D37 à /d2-ENABLE.
+Ajout net unconnected-(A2-PadA10).
+Connecter A2 pin A10 à unconnected-(A2-PadA10).
+Ajout net /wht_2.
+Connecter A2 pin D5 à /wht_2.
+Ajout net unconnected-(A2-PadA3).
+Connecter A2 pin A3 à unconnected-(A2-PadA3).
+Ajout net /D_CE.
+Connecter A2 pin D48 à /D_CE.
+Ajout net /d4-STEP.
+Connecter A2 pin D41 à /d4-STEP.
+Connecter A2 pin GND6 à GND.
+Ajout net unconnected-(A2-PadA0).
+Connecter A2 pin A0 à unconnected-(A2-PadA0).
+Ajout net unconnected-(A2-D1/TX0-PadD1).
+Connecter A2 pin D1 à unconnected-(A2-D1/TX0-PadD1).
+Ajout net unconnected-(A2-PadA9).
+Connecter A2 pin A9 à unconnected-(A2-PadA9).
+Ajout net unconnected-(A2-PadD28).
+Connecter A2 pin D28 à unconnected-(A2-PadD28).
+Ajout net unconnected-(A2-RESET-PadRST1).
+Connecter A2 pin RST1 à unconnected-(A2-RESET-PadRST1).
+Ajout net unconnected-(A2-SPI_SCK-PadSCK).
+Connecter A2 pin SCK à unconnected-(A2-SPI_SCK-PadSCK).
+Ajout net unconnected-(A2-PadA2).
+Connecter A2 pin A2 à unconnected-(A2-PadA2).
+Connecter A2 pin D32 à /d1-STEP.
+Ajout net unconnected-(A2-PadD8).
+Connecter A2 pin D8 à unconnected-(A2-PadD8).
+Ajout net unconnected-(A2-D15/RX3-PadD15).
+Connecter A2 pin D15 à unconnected-(A2-D15/RX3-PadD15).
+Ajout net unconnected-(A2-PadAREF).
+Connecter A2 pin AREF à unconnected-(A2-PadAREF).
+Ajout net /D_S1.
+Connecter A2 pin D10 à /D_S1.
+Ajout net /Echo_D.
+Connecter A2 pin D30 à /Echo_D.
+Connecter A2 pin GND2 à GND.
+Ajout net /wht_4.
+Connecter A2 pin D7 à /wht_4.
+Ajout net unconnected-(A2-IOREF-PadIORF).
+Connecter A2 pin IORF à unconnected-(A2-IOREF-PadIORF).
+Ajout net unconnected-(A2-PadA1).
+Connecter A2 pin A1 à unconnected-(A2-PadA1).
+Connecter A2 pin VIN à /Vin.
+Connecter A2 pin D33 à /d1-DIR.
+Connecter A2 pin GND1 à GND.
+Ajout net /Trig_D.
+Connecter A2 pin D29 à /Trig_D.
+Ajout net /Trig_G.
+Connecter A2 pin D26 à /Trig_G.
+Ajout net /SDA_1.
+Connecter A2 pin SDA à /SDA_1.
+Ajout net unconnected-(A2-D19/RX1-PadD19).
+Connecter A2 pin D19 à unconnected-(A2-D19/RX1-PadD19).
+Ajout net /D_OUT.
+Connecter A2 pin D24 à /D_OUT.
+Ajout net unconnected-(A2-D0/RX0-PadD0).
+Connecter A2 pin D0 à unconnected-(A2-D0/RX0-PadD0).
+Ajout net unconnected-(A2-PadA7).
+Connecter A2 pin A7 à unconnected-(A2-PadA7).
+Ajout net /d2-DIR.
+Connecter A2 pin D36 à /d2-DIR.
+Ajout net unconnected-(A2-D3_INT1-PadD3).
+Connecter A2 pin D3 à unconnected-(A2-D3_INT1-PadD3).
+Ajout net unconnected-(A2-SPI_RESET-PadRST2).
+Connecter A2 pin RST2 à unconnected-(A2-SPI_RESET-PadRST2).
+Ajout net unconnected-(A2-SPI_MOSI-PadMOSI).
+Connecter A2 pin MOSI à unconnected-(A2-SPI_MOSI-PadMOSI).
+Ajout net unconnected-(A2-PadA13).
+Connecter A2 pin A13 à unconnected-(A2-PadA13).
+Ajout net /D_CSN.
+Connecter A2 pin D49 à /D_CSN.
+Connecter A2 pin GND3 à GND.
+Ajout net unconnected-(A2-D14/TX3-PadD14).
+Connecter A2 pin D14 à unconnected-(A2-D14/TX3-PadD14).
+Ajout net unconnected-(A2-PadA4).
+Connecter A2 pin A4 à unconnected-(A2-PadA4).
+Ajout net /d4-ENABLE.
+Connecter A2 pin D43 à /d4-ENABLE.
+Ajout net /D_XSHUT_B.
+Connecter A2 pin D23 à /D_XSHUT_B.
+Ajout net /d4-DIR.
+Connecter A2 pin D42 à /d4-DIR.
+Ajout net unconnected-(A2-PadD44).
+Connecter A2 pin D44 à unconnected-(A2-PadD44).
+Ajout net /SCL_1.
+Connecter A2 pin SCL à /SCL_1.
+Ajout net /D_S0.
+Connecter A2 pin D9 à /D_S0.
+Ajout net unconnected-(A2-PadD46).
+Connecter A2 pin D46 à unconnected-(A2-PadD46).
+Connecter A2 pin D34 à /d1-ENABLE.
+Connecter A2 pin GND5 à GND.
+Ajout net unconnected-(A2-D17/RX2-PadD17).
+Connecter A2 pin D17 à unconnected-(A2-D17/RX2-PadD17).
+Ajout net unconnected-(A2-PadA12).
+Connecter A2 pin A12 à unconnected-(A2-PadA12).
+Connecter A2 pin 5V4 à +5V.
+Ajout net /d2-STEP.
+Connecter A2 pin D35 à /d2-STEP.
+Ajout net unconnected-(A2-PadD31).
+Connecter A2 pin D31 à unconnected-(A2-PadD31).
+Ajout net /D_MISO.
+Connecter A2 pin D50 à /D_MISO.
+Ajout net /wht_3.
+Connecter A2 pin D6 à /wht_3.
+Ajout net unconnected-(A2-SPI_5V-Pad5V2).
+Connecter A2 pin 5V2 à unconnected-(A2-SPI_5V-Pad5V2).
+Ajout net unconnected-(A2-PadD45).
+Connecter A2 pin D45 à unconnected-(A2-PadD45).
+Ajout net /D_S2.
+Connecter A2 pin D11 à /D_S2.
+Ajout net unconnected-(A2-PadA14).
+Connecter A2 pin A14 à unconnected-(A2-PadA14).
+Ajout net unconnected-(A2-D16/TX2-PadD16).
+Connecter A2 pin D16 à unconnected-(A2-D16/TX2-PadD16).
+Ajout net unconnected-(A2-PadA15).
+Connecter A2 pin A15 à unconnected-(A2-PadA15).
+Ajout net /Echo_G.
+Connecter A2 pin D27 à /Echo_G.
+Ajout net /T_SDA.
+Connecter A2 pin D20 à /T_SDA.
+Ajout net unconnected-(A2-PadA5).
+Connecter A2 pin A5 à unconnected-(A2-PadA5).
+Ajout net unconnected-(A2-PadD13).
+Connecter A2 pin D13 à unconnected-(A2-PadD13).
+Connecter A2 pin 5V1 à +5V.
+Ajout net /D_SCK.
+Connecter A2 pin D52 à /D_SCK.
+Ajout net unconnected-(A2-PadA11).
+Connecter A2 pin A11 à unconnected-(A2-PadA11).
+Ajout net /wht_1.
+Connecter A2 pin D4 à /wht_1.
+Ajout net unconnected-(A2-D18/TX1-PadD18).
+Connecter A2 pin D18 à unconnected-(A2-D18/TX1-PadD18).
+Ajout net unconnected-(A2-SPI_MISO-PadMISO).
+Connecter A2 pin MISO à unconnected-(A2-SPI_MISO-PadMISO).
+Connecter A2 pin 5V3 à +5V.
+Ajout net /D_S3.
+Connecter A2 pin D12 à /D_S3.
+Connecter A2 pin 3V3 à +3V3.
+Ajout net /D_XSHUT_H.
+Connecter A2 pin D22 à /D_XSHUT_H.
+Ajout net unconnected-(A2-PadD47).
+Connecter A2 pin D47 à unconnected-(A2-PadD47).
+Ajouté A3 (empreinte 'Module:Pololu_Breakout-16_15.2x20.3mm').
+Change la référence schématique de REF** en A3.
+Modifie valeur A3 de Pololu_Breakout-16_15.2x20.3mm en Pololu_Breakout_DRV8825.
+Mise à jour A3 association de symbole de  à /76f873b7-4862-4fbe-ac08-896b46e5172e.
+Mise a Jour des Champs de A3.
+Mis à jour A3 nom de feuille en /.
+Mis à jour A3 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte A3 mis à jour en 'Pololu*Breakout*15.2x20.3mm*'.
+Ajout net unconnected-(A3-~{FLT}-Pad2).
+Connecter A3 pin 2 à unconnected-(A3-~{FLT}-Pad2).
+Ajout net unconnected-(A3-B2-Pad6).
+Connecter A3 pin 6 à unconnected-(A3-B2-Pad6).
+Ajout net unconnected-(A3-VMOT-Pad8).
+Connecter A3 pin 8 à unconnected-(A3-VMOT-Pad8).
+Connecter A3 pin 1 à GND.
+Connecter A3 pin 14 à +5V.
+Connecter A3 pin 12 à +5V.
+Ajout net unconnected-(A3-GND-Pad7).
+Connecter A3 pin 7 à unconnected-(A3-GND-Pad7).
+Ajout net unconnected-(A3-B1-Pad5).
+Connecter A3 pin 5 à unconnected-(A3-B1-Pad5).
+Ajout net unconnected-(A3-A1-Pad4).
+Connecter A3 pin 4 à unconnected-(A3-A1-Pad4).
+Ajout net unconnected-(A3-A2-Pad3).
+Connecter A3 pin 3 à unconnected-(A3-A2-Pad3).
+Connecter A3 pin 16 à /d2-DIR.
+Connecter A3 pin 15 à /d2-STEP.
+Connecter A3 pin 13 à +5V.
+Connecter A3 pin 9 à /d2-ENABLE.
+Connecter A3 pin 11 à +5V.
+Connecter A3 pin 10 à +5V.
+Ajouté A4 (empreinte 'Module:Pololu_Breakout-16_15.2x20.3mm').
+Change la référence schématique de REF** en A4.
+Modifie valeur A4 de Pololu_Breakout-16_15.2x20.3mm en Pololu_Breakout_DRV8825.
+Mise à jour A4 association de symbole de  à /efc3580f-0803-4481-b7fd-f7846dbf7d71.
+Mise a Jour des Champs de A4.
+Mis à jour A4 nom de feuille en /.
+Mis à jour A4 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte A4 mis à jour en 'Pololu*Breakout*15.2x20.3mm*'.
+Ajout net unconnected-(A4-B1-Pad5).
+Connecter A4 pin 5 à unconnected-(A4-B1-Pad5).
+Connecter A4 pin 15 à /d3-STEP.
+Connecter A4 pin 10 à +5V.
+Connecter A4 pin 12 à +5V.
+Connecter A4 pin 16 à /d3-DIR.
+Ajout net unconnected-(A4-VMOT-Pad8).
+Connecter A4 pin 8 à unconnected-(A4-VMOT-Pad8).
+Ajout net unconnected-(A4-A1-Pad4).
+Connecter A4 pin 4 à unconnected-(A4-A1-Pad4).
+Connecter A4 pin 14 à +5V.
+Ajout net unconnected-(A4-~{FLT}-Pad2).
+Connecter A4 pin 2 à unconnected-(A4-~{FLT}-Pad2).
+Connecter A4 pin 11 à +5V.
+Ajout net unconnected-(A4-GND-Pad7).
+Connecter A4 pin 7 à unconnected-(A4-GND-Pad7).
+Connecter A4 pin 1 à GND.
+Connecter A4 pin 13 à +5V.
+Connecter A4 pin 9 à /d3-ENABLE.
+Ajout net unconnected-(A4-B2-Pad6).
+Connecter A4 pin 6 à unconnected-(A4-B2-Pad6).
+Ajout net unconnected-(A4-A2-Pad3).
+Connecter A4 pin 3 à unconnected-(A4-A2-Pad3).
+Ajouté A1 (empreinte 'Module:Pololu_Breakout-16_15.2x20.3mm').
+Ajouté A5 (empreinte 'Module:Pololu_Breakout-16_15.2x20.3mm').
+Change la référence schématique de REF** en A5.
+Modifie valeur A5 de Pololu_Breakout-16_15.2x20.3mm en Pololu_Breakout_DRV8825.
+Mise à jour A5 association de symbole de  à /27a0a50f-99d0-4615-91a6-c193a94a8a18.
+Mise a Jour des Champs de A5.
+Mis à jour A5 nom de feuille en /.
+Mis à jour A5 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte A5 mis à jour en 'Pololu*Breakout*15.2x20.3mm*'.
+Ajout net unconnected-(A5-GND-Pad7).
+Connecter A5 pin 7 à unconnected-(A5-GND-Pad7).
+Ajout net unconnected-(A5-B2-Pad6).
+Connecter A5 pin 6 à unconnected-(A5-B2-Pad6).
+Connecter A5 pin 14 à +5V.
+Connecter A5 pin 12 à +5V.
+Connecter A5 pin 15 à /d4-STEP.
+Ajout net unconnected-(A5-B1-Pad5).
+Connecter A5 pin 5 à unconnected-(A5-B1-Pad5).
+Ajout net unconnected-(A5-A1-Pad4).
+Connecter A5 pin 4 à unconnected-(A5-A1-Pad4).
+Connecter A5 pin 10 à +5V.
+Ajout net unconnected-(A5-A2-Pad3).
+Connecter A5 pin 3 à unconnected-(A5-A2-Pad3).
+Ajout net unconnected-(A5-~{FLT}-Pad2).
+Connecter A5 pin 2 à unconnected-(A5-~{FLT}-Pad2).
+Ajout net unconnected-(A5-VMOT-Pad8).
+Connecter A5 pin 8 à unconnected-(A5-VMOT-Pad8).
+Connecter A5 pin 13 à +5V.
+Connecter A5 pin 16 à /d4-DIR.
+Connecter A5 pin 9 à /d4-ENABLE.
+Connecter A5 pin 1 à GND.
+Connecter A5 pin 11 à +5V.
+Change la référence schématique de REF** en A1.
+Ajouté C1 (empreinte 'ISI-Capacitor:WCAP-ATUL_18X35.5_DXL_').
+Change la référence schématique de REF** en C1.
+Modifie valeur C1 de WCAP-ATUL_18X35.5_DXL_ en 10uF.
+Mise à jour C1 association de symbole de  à /c3ad8b2d-fe38-4f44-96a2-68d2285c3682.
+Mise a Jour des Champs de C1.
+Mis à jour C1 nom de feuille en /.
+Mis à jour C1 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte C1 mis à jour en 'C_*'.
+Connecter C1 pin 1 à +3V3.
+Connecter C1 pin 2 à GND.
+Modifie valeur A1 de Pololu_Breakout-16_15.2x20.3mm en Pololu_Breakout_DRV8825.
+Ajouté C2 (empreinte 'ISI-Capacitor:WCAP-ATUL_18X35.5_DXL_').
+Change la référence schématique de REF** en C2.
+Modifie valeur C2 de WCAP-ATUL_18X35.5_DXL_ en 10uF.
+Mise à jour C2 association de symbole de  à /7ad95a2c-a8bd-4b47-b73f-9841e732012b.
+Mise a Jour des Champs de C2.
+Mis à jour C2 nom de feuille en /.
+Mis à jour C2 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte C2 mis à jour en 'C_*'.
+Connecter C2 pin 1 à GND.
+Connecter C2 pin 2 à GND.
+Mise à jour A1 association de symbole de  à /5304e1ee-540d-4650-827c-db5f79524748.
+Mise a Jour des Champs de A1.
+Ajouté D3 (empreinte 'ISI-Diodes:D_SMB_Handsoldering').
+Change la référence schématique de REF** en D3.
+Modifie valeur D3 de D_SMB_Handsoldering en SS24.
+Mise à jour D3 association de symbole de  à /00cc0a98-b26f-4ad3-8f48-373caabdec39.
+Mise a Jour des Champs de D3.
+Mis à jour D3 nom de feuille en /.
+Mis à jour D3 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte D3 mis à jour en 'D*SMA*'.
+Ajout net Net-(D3-A).
+Connecter D3 pin 2 à Net-(D3-A).
+Ajout net Net-(D3-K).
+Connecter D3 pin 1 à Net-(D3-K).
+Mis à jour A1 nom de feuille en /.
+Modifie valeur J1 de HC-SR04 en HC-SR04 gauche.
+Mise a Jour des Champs de J1.
+Reconnexion 'J1' pin '3'  de '/Echo' en '/Echo_G'.
+Reconnexion 'J1' pin '2'  de '/Trig' en '/Trig_G'.
+Mis à jour A1 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Mise a Jour des Champs de J2.
+Reconnexion 'J2' pin '1'  de 'Net-(D1-A)' en 'Net-(D3-A)'.
+Filtres d'empreinte A1 mis à jour en 'Pololu*Breakout*15.2x20.3mm*'.
+Ajouté J3 (empreinte 'ISI-Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Long_Vertical').
+Change la référence schématique de REF** en J3.
+Modifie valeur J3 de PinHeader_1x03_P2.54mm_Vertical en SERVO MOTEUR 1.
+Mise à jour J3 association de symbole de  à /563dc425-a698-4021-b6dd-590f4a87082f.
+Mise a Jour des Champs de J3.
+Mis à jour J3 nom de feuille en /.
+Mis à jour J3 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte J3 mis à jour en 'Connector*:*_1x??_*'.
+Connecter J3 pin 2 à unconnected-(J3-Pin_2-Pad2).
+Connecter J3 pin 3 à /wht_1.
+Connecter J3 pin 1 à GND.
+Connecter A1 pin 14 à +5V.
+Ajouté J4 (empreinte 'ISI-Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Long_Vertical').
+Change la référence schématique de REF** en J4.
+Modifie valeur J4 de PinHeader_1x03_P2.54mm_Vertical en SERVO MOTEUR 2.
+Mise à jour J4 association de symbole de  à /d6c9c604-aa09-42ce-add6-bf51e1009a84.
+Mise a Jour des Champs de J4.
+Mis à jour J4 nom de feuille en /.
+Mis à jour J4 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte J4 mis à jour en 'Connector*:*_1x??_*'.
+Ajout net unconnected-(J4-Pin_2-Pad2).
+Connecter J4 pin 2 à unconnected-(J4-Pin_2-Pad2).
+Connecter J4 pin 1 à GND.
+Connecter J4 pin 3 à /wht_2.
+Connecter A1 pin 12 à +5V.
+Ajouté J5 (empreinte 'ISI-Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical').
+Change la référence schématique de REF** en J5.
+Modifie valeur J5 de PinSocket_2x04_P2.54mm_Vertical en cap sen0101.
+Mise à jour J5 association de symbole de  à /8d05f896-f50e-4f9d-86e3-e326d7bdf3eb.
+Mise a Jour des Champs de J5.
+Mis à jour J5 nom de feuille en /.
+Mis à jour J5 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Ajout net unconnected-(A1-B1-Pad5).
+Connecter J5 pin 7 à GND.
+Connecter J5 pin 2 à /D_S0.
+Connecter J5 pin 4 à /D_S1.
+Connecter J5 pin 8 à /D_S3.
+Connecter J5 pin 3 à /D_OUT.
+Connecter J5 pin 6 à /D_S2.
+Connecter J5 pin 1 à GND.
+Connecter J5 pin 5 à +5V.
+Connecter A1 pin 5 à unconnected-(A1-B1-Pad5).
+Ajouté J7 (empreinte 'ISI-Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Long_Vertical').
+Change la référence schématique de REF** en J7.
+Modifie valeur J7 de PinHeader_1x03_P2.54mm_Vertical en SERVO MOTEUR 3.
+Mise à jour J7 association de symbole de  à /7740b0ab-f844-4684-bd9a-5e713e69dcff.
+Mise a Jour des Champs de J7.
+Mis à jour J7 nom de feuille en /.
+Mis à jour J7 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte J7 mis à jour en 'Connector*:*_1x??_*'.
+Connecter J7 pin 1 à GND.
+Connecter J7 pin 3 à /wht_3.
+Ajout net unconnected-(J7-Pin_2-Pad2).
+Connecter J7 pin 2 à unconnected-(J7-Pin_2-Pad2).
+Connecter A1 pin 13 à +5V.
+Ajouté J8 (empreinte 'ISI-Connector_JST:JST_XH_B4B-XH-AM_1x04_P2.50mm_Long_Vertical').
+Change la référence schématique de REF** en J8.
+Modifie valeur J8 de JST_XH_B4B-XH-AM_1x04_P2.50mm_Long_Vertical en HC-SR04 droite.
+Mise à jour J8 association de symbole de  à /9888fabe-13a2-456c-96d7-210e40091d91.
+Mise a Jour des Champs de J8.
+Mis à jour J8 nom de feuille en /.
+Mis à jour J8 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte J8 mis à jour en 'Connector*:*_1x??_*'.
+Connecter J8 pin 1 à +5V.
+Connecter J8 pin 4 à GND.
+Connecter J8 pin 2 à /Trig_D.
+Connecter J8 pin 3 à /Echo_D.
+Connecter A1 pin 11 à +5V.
+Ajouté J9 (empreinte 'ISI-Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Long_Vertical').
+Change la référence schématique de REF** en J9.
+Modifie valeur J9 de PinHeader_1x06_P2.54mm_Vertical en CAPTEUR TOF_HAUT.
+Mise à jour J9 association de symbole de  à /158558b7-98fe-4692-9c63-ae4eb702805a.
+Mise a Jour des Champs de J9.
+Mis à jour J9 nom de feuille en /.
+Mis à jour J9 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte J9 mis à jour en 'Connector*:*_1x??_*'.
+Ajout net unconnected-(J9-Pin_5-Pad5).
+Connecter J9 pin 5 à unconnected-(J9-Pin_5-Pad5).
+Connecter J9 pin 3 à /T_SCL.
+Connecter J9 pin 6 à /D_XSHUT_H.
+Connecter J9 pin 1 à +5V.
+Connecter J9 pin 4 à /T_SDA.
+Connecter J9 pin 2 à GND.
+Ajout net /d1-ENABLE.
+Ajouté J10 (empreinte 'ISI-Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Long_Vertical').
+Change la référence schématique de REF** en J10.
+Modifie valeur J10 de PinHeader_1x06_P2.54mm_Vertical en CAPTEUR TOF _BAS.
+Mise à jour J10 association de symbole de  à /2a8f6745-364b-4b80-9676-fe14b913eb94.
+Mise a Jour des Champs de J10.
+Mis à jour J10 nom de feuille en /.
+Mis à jour J10 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte J10 mis à jour en 'Connector*:*_1x??_*'.
+Connecter J10 pin 6 à /D_XSHUT_B.
+Connecter J10 pin 3 à /T_SCL.
+Ajout net unconnected-(J10-Pin_5-Pad5).
+Connecter J10 pin 5 à unconnected-(J10-Pin_5-Pad5).
+Filtres d'empreinte J5 mis à jour en 'Connector*:*_2x??_*'.
+Connecter J10 pin 1 à +5V.
+Connecter J10 pin 4 à /T_SDA.
+Connecter A1 pin 9 à /d1-ENABLE.
+Ajouté J11 (empreinte 'ISI-Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Long_Vertical').
+Change la référence schématique de REF** en J11.
+Modifie valeur J11 de PinHeader_1x03_P2.54mm_Vertical en SERVO MOTEUR 4.
+Mise à jour J11 association de symbole de  à /7a02f739-afb2-4102-a787-033da541fa82.
+Mise a Jour des Champs de J11.
+Mis à jour J11 nom de feuille en /.
+Mis à jour J11 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Filtres d'empreinte J11 mis à jour en 'Connector*:*_1x??_*'.
+Connecter J11 pin 1 à GND.
+Ajout net unconnected-(J11-Pin_2-Pad2).
+Connecter J11 pin 2 à unconnected-(J11-Pin_2-Pad2).
+Connecter J11 pin 3 à /wht_4.
+Connecter A1 pin 1 à GND.
+Mise a Jour des Champs de R1.
+Connecter A1 pin 10 à +5V.
+Mise a Jour des Champs de S1.
+Reconnexion 'S1' pin '1'  de 'Net-(D1-K)' en 'Net-(D3-K)'.
+Ajout net unconnected-(A1-B2-Pad6).
+Ajouté U1 (empreinte 'ISI-Modules:module_mpu6050').
+Change la référence schématique de REF** en U1.
+Mise à jour U1 association de symbole de  à /2229592d-a432-4b9d-9f26-0a6bd3c4795c.
+Mise a Jour des Champs de U1.
+Mis à jour U1 nom de feuille en /.
+Mis à jour U1 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Connecter U1 pin 7 à +5V.
+Connecter U1 pin 5 à unconnected-(U1-XDA-Pad5).
+Connecter U1 pin 6 à unconnected-(U1-XCL-Pad6).
+Connecter U1 pin 2 à GND.
+Connecter U1 pin 8 à /D_INT.
+Connecter U1 pin 4 à /SDA_1.
+Connecter U1 pin 3 à /SCL_1.
+Connecter U1 pin 1 à +5V.
+Connecter A1 pin 6 à unconnected-(A1-B2-Pad6).
+Ajouté U3 (empreinte 'ISI-Modules:E01-ML01DP5').
+Change la référence schématique de REF** en U3.
+Modifie valeur U3 de E01-ML01DP5 en NRF24L01P-Module-E01ML01DP5_Breakout.
+Mise à jour U3 association de symbole de  à /12137347-43a2-4812-83af-8edc51fa8cdd.
+Mise a Jour des Champs de U3.
+Mis à jour U3 nom de feuille en /.
+Mis à jour U3 fichier de feuille en Robot2025LabyrintheTemplate.kicad_sch.
+Connecter U3 pin 3 à /D_CE.
+Connecter U3 pin 5 à /D_SCK.
+Connecter U3 pin 7 à /D_MISO.
+Ajout net unconnected-(U3-IRQ-Pad8).
+Connecter U3 pin 8 à unconnected-(U3-IRQ-Pad8).
+Connecter U3 pin 4 à /D_CSN.
+Connecter U3 pin 2 à +3V3.
+Connecter U3 pin 6 à /D_MOSI.
+Connecter U3 pin 1 à GND.
+Reconnexion via  de '/Trig' en '/Trig_G'.
+
+
+Connecter J10 pin 2 à GND.
+Attention: Via connecté à une équipotentielle inconnue (Net-(J7-Pin_1)).
+Attention: Pas d'équipotentielle pour composant 'U3' pad '12' (pas de pin 12 en symbole).
+Attention: Via connecté à une équipotentielle inconnue (Net-(A1-PadD11)).
+Attention: Via connecté à une équipotentielle inconnue (Net-(A1-PadD13)).
+Attention: Via connecté à une équipotentielle inconnue (Net-(A1-PadD9)).
+Attention: Pas d'équipotentielle pour composant 'U3' pad '10' (pas de pin 10 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U3' pad '9' (pas de pin 9 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U3' pad '11' (pas de pin 11 en symbole).
+
+
+Info: Total warnings: 8, erreurs: 0.
