@@ -7056,7 +7056,7 @@
 	(footprint "ISI-Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Long_Vertical"
 		(layer "F.Cu")
 		(uuid "70fa4c9b-070b-45e6-8a65-7ab32c23c4c1")
-		(at 153.5 31.96)
+		(at 148 37.92)
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J3"
@@ -11999,7 +11999,7 @@
 	(footprint "ISI-Modules:module_mpu6050"
 		(layer "F.Cu")
 		(uuid "e1e0c5fd-e804-46ef-80e0-43e51a38900d")
-		(at 232 85.24)
+		(at 183 59.28)
 		(descr "Module 6 DoF I2C basé sur un MPU6050 associant un accéléromètre 3 axes et un gyroscope 3 axes.")
 		(property "Reference" "U1"
 			(at 1.27 -20.32 0)
