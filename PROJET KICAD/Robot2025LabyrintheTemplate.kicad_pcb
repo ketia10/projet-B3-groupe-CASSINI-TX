@@ -11192,7 +11192,7 @@
 		(at 83.76 120.54)
 		(descr "https://docs.arduino.cc/hardware/mega-2560")
 		(property "Reference" "A2"
-			(at 2.54 -54.356 -0)
+			(at 2.54 -54.356 0)
 			(layer "F.SilkS")
 			(uuid "b24aa0ae-2a94-4e78-bece-d9c5d8d25873")
 			(effects
