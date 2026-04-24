@@ -10556,7 +10556,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Conn_01x04_Pin"
+		(property "Value" "moteur 2 AV"
 			(at 64.77 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14453,7 +14453,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "moteur 3"
+		(property "Value" "moteur 4 DR"
 			(at 231.14 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14728,7 +14728,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Conn_01x04_Pin"
+		(property "Value" "moteur 3 DR"
 			(at 238.76 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16427,7 +16427,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Conn_01x04_Pin"
+		(property "Value" "moteur 1 AV"
 			(at 146.05 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
