@@ -6408,6 +6408,12 @@
 		(uuid "95056716-046b-45ff-a493-860664a34e49")
 	)
 	(junction
+		(at 78.74 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9506c27f-0b42-4567-83f4-17cf1e393e19")
+	)
+	(junction
 		(at 101.6 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6430,12 +6436,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ae053bbc-de95-4f3c-83b6-c8ec96f44cfc")
-	)
-	(junction
-		(at 78.74 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b8974225-6120-4c9f-984d-527218a52e24")
 	)
 	(junction
 		(at 43.18 135.89)
@@ -7061,7 +7061,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 29.21) (xy 78.74 31.75)
+			(xy 78.74 29.21) (xy 78.74 30.48)
 		)
 		(stroke
 			(width 0)
@@ -7241,7 +7241,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 31.75) (xy 78.74 31.75)
+			(xy 92.71 30.48) (xy 78.74 30.48)
 		)
 		(stroke
 			(width 0)
@@ -7811,7 +7811,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 46.99) (xy 100.33 46.99)
+			(xy 92.71 46.99) (xy 100.33 46.99)
 		)
 		(stroke
 			(width 0)
@@ -8431,16 +8431,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 31.75) (xy 78.74 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a70ebc67-65b4-4305-b0ac-6c2bc5232f9a")
-	)
-	(wire
-		(pts
 			(xy 189.23 22.86) (xy 193.04 22.86)
 		)
 		(stroke
@@ -8721,6 +8711,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 30.48) (xy 78.74 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c14a9020-1a69-4ebf-bdec-d54e0ab83910")
+	)
+	(wire
+		(pts
 			(xy 220.98 193.04) (xy 228.6 193.04)
 		)
 		(stroke
@@ -8891,7 +8891,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 39.37) (xy 93.98 46.99)
+			(xy 92.71 38.1) (xy 92.71 46.99)
 		)
 		(stroke
 			(width 0)
@@ -17824,7 +17824,7 @@
 	)
 	(symbol
 		(lib_id "ISI-Resistor:R_US_1206")
-		(at 93.98 35.56 0)
+		(at 92.71 34.29 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17835,7 +17835,7 @@
 		(fields_autoplaced yes)
 		(uuid "f9179f3d-22c0-4374-ad4e-7532ce1ec521")
 		(property "Reference" "R3"
-			(at 96.52 34.2899 0)
+			(at 95.25 33.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17846,7 +17846,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 96.52 36.8299 0)
+			(at 95.25 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17857,7 +17857,7 @@
 			)
 		)
 		(property "Footprint" "ISI-Resistor:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 94.996 35.814 90)
+			(at 93.726 34.544 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17868,7 +17868,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 35.56 0)
+			(at 92.71 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17879,7 +17879,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol 1206 SMD"
-			(at 93.98 35.56 0)
+			(at 92.71 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17890,7 +17890,7 @@
 			)
 		)
 		(property "PartNumber" "Voir farde de resistance"
-			(at 93.98 35.56 0)
+			(at 92.71 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17901,7 +17901,7 @@
 			)
 		)
 		(property "Emplacement" "Voir farde de resistance"
-			(at 93.98 35.56 0)
+			(at 92.71 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
