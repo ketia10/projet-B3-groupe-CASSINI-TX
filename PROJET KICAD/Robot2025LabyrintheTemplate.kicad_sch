@@ -6426,6 +6426,12 @@
 		(uuid "9506c27f-0b42-4567-83f4-17cf1e393e19")
 	)
 	(junction
+		(at 25.4 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "952d8b1d-a786-48fd-94d7-a333c78e8b7d")
+	)
+	(junction
 		(at 101.6 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6608,10 +6614,6 @@
 		(uuid "7e9b876a-7565-41b1-a92a-92060e2237ad")
 	)
 	(no_connect
-		(at 170.18 142.24)
-		(uuid "8065137e-54eb-4123-beef-7f44564f8620")
-	)
-	(no_connect
 		(at 104.14 38.1)
 		(uuid "88450ce6-e615-4b67-93ca-2bac23ef7809")
 	)
@@ -6764,6 +6766,16 @@
 			(type default)
 		)
 		(uuid "0503cf98-947d-4f03-8fe9-3eae813ceb0e")
+	)
+	(wire
+		(pts
+			(xy 176.53 149.86) (xy 180.34 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "065c89be-10a3-4604-822b-77ece56d6c24")
 	)
 	(wire
 		(pts
@@ -7357,7 +7369,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 127) (xy 33.02 127)
+			(xy 24.13 127) (xy 25.4 127)
 		)
 		(stroke
 			(width 0)
@@ -7384,6 +7396,16 @@
 			(type default)
 		)
 		(uuid "3d832f7e-e532-478b-9067-fa333ac40819")
+	)
+	(wire
+		(pts
+			(xy 25.4 124.46) (xy 25.4 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ee1215e-3a67-4661-bc20-f667a5c725e5")
 	)
 	(wire
 		(pts
@@ -7524,6 +7546,16 @@
 			(type default)
 		)
 		(uuid "4c76a0a4-1465-4f49-9191-dd4c2f0874e2")
+	)
+	(wire
+		(pts
+			(xy 185.42 125.73) (xy 185.42 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c8c20a8-f706-4bd5-af94-452311223eaf")
 	)
 	(wire
 		(pts
@@ -7747,6 +7779,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 127) (xy 33.02 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fb43e9c-cd5f-44ce-9482-886eecae1094")
+	)
+	(wire
+		(pts
 			(xy 25.4 124.46) (xy 33.02 124.46)
 		)
 		(stroke
@@ -7804,6 +7846,26 @@
 			(type default)
 		)
 		(uuid "670182a0-1313-401b-9f6d-745c95d07ffe")
+	)
+	(wire
+		(pts
+			(xy 25.4 127) (xy 25.4 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b0231dc-3b24-4383-b43f-85a16c9b79dd")
+	)
+	(wire
+		(pts
+			(xy 180.34 149.86) (xy 180.34 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ca4d175-1462-4628-b34c-001119172b0f")
 	)
 	(wire
 		(pts
@@ -8134,6 +8196,16 @@
 			(type default)
 		)
 		(uuid "8b099814-1cd8-45ef-a455-c01252d2c0e2")
+	)
+	(wire
+		(pts
+			(xy 185.42 132.08) (xy 181.61 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cadf5c8-4245-4281-9868-132af32e6c7f")
 	)
 	(wire
 		(pts
@@ -8504,6 +8576,16 @@
 			(type default)
 		)
 		(uuid "ac80c50b-1083-448e-af5b-38d449866871")
+	)
+	(wire
+		(pts
+			(xy 176.53 149.86) (xy 176.53 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "accd58dd-3253-4865-b2bd-ef54201bc234")
 	)
 	(wire
 		(pts
@@ -9097,6 +9179,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 142.24) (xy 172.72 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de2208a8-a146-4e78-aada-b77f44afc506")
+	)
+	(wire
+		(pts
 			(xy 39.37 46.99) (xy 49.53 46.99)
 		)
 		(stroke
@@ -9615,6 +9707,16 @@
 		)
 		(uuid "3b135a0c-1449-49a0-84b6-1e9423945ec7")
 	)
+	(label "D_CSN"
+		(at 176.53 153.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3d685671-9b33-4238-b82c-1a5c96355225")
+	)
 	(label "D_S3"
 		(at 175.26 58.42 0)
 		(effects
@@ -10126,7 +10228,7 @@
 		(uuid "f53321cf-164f-4f74-9868-ad9e969ad864")
 	)
 	(label "D_CSN"
-		(at 173.99 132.08 0)
+		(at 185.42 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10311,6 +10413,107 @@
 			(project "Robot2025LabyrintheTemplate"
 				(path "/e254274d-5d9b-445c-a3cb-a9a8f93322e6"
 					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ISI-Resistor:R_US_1206")
+		(at 176.53 142.24 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "040592d2-a0ec-4cb1-99d1-8cef598805e1")
+		(property "Reference" "R5"
+			(at 176.276 144.272 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 179.832 143.764 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ISI-Resistor:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 176.784 141.224 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol 1206 SMD"
+			(at 176.53 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "Voir farde de resistance"
+			(at 176.53 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Emplacement" "Voir farde de resistance"
+			(at 176.53 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "379f1d46-d202-4e4a-bab7-d6633ec514fa")
+		)
+		(pin "2"
+			(uuid "69d4c4e2-0b35-473e-9b0d-6c199951a291")
+		)
+		(instances
+			(project "Robot2025LabyrintheTemplate"
+				(path "/e254274d-5d9b-445c-a3cb-a9a8f93322e6"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -11649,85 +11852,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 25.4 124.46 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "23c37a58-f6ce-46f8-be43-2d9b9846bf86")
-		(property "Reference" "#PWR046"
-			(at 29.21 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 21.59 124.4599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 25.4 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 25.4 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 25.4 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1cdd5911-5a2a-4e5d-98c3-eb78620b0b69")
-		)
-		(instances
-			(project "Robot2025LabyrintheTemplate"
-				(path "/e254274d-5d9b-445c-a3cb-a9a8f93322e6"
-					(reference "#PWR046")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "ISI-Connector_JST:Conn_01x05_Pin")
 		(at 17.78 66.04 0)
 		(unit 1)
@@ -12412,6 +12536,107 @@
 			(project "Robot2025LabyrintheTemplate"
 				(path "/e254274d-5d9b-445c-a3cb-a9a8f93322e6"
 					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ISI-Resistor:R_US_1206")
+		(at 177.8 132.08 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "410d83fd-c13c-4b57-87a3-5baad6f00b01")
+		(property "Reference" "R6"
+			(at 177.038 130.556 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 180.848 130.81 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ISI-Resistor:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 178.054 131.064 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 177.8 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol 1206 SMD"
+			(at 177.8 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "Voir farde de resistance"
+			(at 177.8 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Emplacement" "Voir farde de resistance"
+			(at 177.8 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6b764af7-e2c8-4c90-9363-5036bd441a79")
+		)
+		(pin "2"
+			(uuid "201ab748-8ac0-4ae4-a498-6fd37eaed07c")
+		)
+		(instances
+			(project "Robot2025LabyrintheTemplate"
+				(path "/e254274d-5d9b-445c-a3cb-a9a8f93322e6"
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -15134,6 +15359,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 24.13 127 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8e8dbbc5-e8ec-4188-bf7f-afe185e63afc")
+		(property "Reference" "#PWR055"
+			(at 17.78 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 20.32 127 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 24.13 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 24.13 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "442e5b5a-12ff-4dcd-a598-8ee9a1ba62c7")
+		)
+		(instances
+			(project "Robot2025LabyrintheTemplate"
+				(path "/e254274d-5d9b-445c-a3cb-a9a8f93322e6"
+					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ISI-Modules:NRF24L01P-Module-E01ML01DP5_Breakout")
 		(at 309.88 128.27 90)
 		(mirror x)
@@ -16023,164 +16325,6 @@
 			(project "Robot2025LabyrintheTemplate"
 				(path "/e254274d-5d9b-445c-a3cb-a9a8f93322e6"
 					(reference "J15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 25.4 129.54 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "afb1e45a-8375-4ff3-86e7-fee0a369f2eb")
-		(property "Reference" "#PWR048"
-			(at 29.21 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 21.59 129.5399 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 25.4 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 25.4 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 25.4 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2fbdf0b4-108e-48af-ad63-d317e7dabe1f")
-		)
-		(instances
-			(project "Robot2025LabyrintheTemplate"
-				(path "/e254274d-5d9b-445c-a3cb-a9a8f93322e6"
-					(reference "#PWR048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 24.13 127 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "afe5b027-cf62-483d-b367-4a14d3090e06")
-		(property "Reference" "#PWR047"
-			(at 27.94 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 20.32 126.9999 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 24.13 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 24.13 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 24.13 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9ef2cf49-cfdc-45f1-887d-edc8d17490a7")
-		)
-		(instances
-			(project "Robot2025LabyrintheTemplate"
-				(path "/e254274d-5d9b-445c-a3cb-a9a8f93322e6"
-					(reference "#PWR047")
 					(unit 1)
 				)
 			)
